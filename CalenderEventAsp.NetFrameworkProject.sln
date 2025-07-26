@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalenderEventAsp.NetFrameworkProject", "CalenderEventAsp.NetFrameworkProject\CalenderEventAsp.NetFrameworkProject.csproj", "{827C6656-AF73-42D8-8327-DD12754B1C4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{827C6656-AF73-42D8-8327-DD12754B1C4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{827C6656-AF73-42D8-8327-DD12754B1C4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{827C6656-AF73-42D8-8327-DD12754B1C4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{827C6656-AF73-42D8-8327-DD12754B1C4E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B0FC038-8AA8-4561-9900-C541A9755248}
+	EndGlobalSection
+EndGlobal
