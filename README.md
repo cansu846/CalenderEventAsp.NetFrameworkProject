@@ -75,12 +75,10 @@ Bu proje, kullanıcıların takvim üzerine etkinlik ekleyebildiği, sürükle-b
 ---
 
 ## 📌 Ekran Görüntüsü
-
-<img width="1919" height="1079" alt="Screenshot 2025-07-27 204559" src="https://github.com/user-attachments/assets/d0edfcc3-949f-45a8-bb6e-270e346c4a3b" />
-<img width="1919" height="1079" alt="Screenshot 2025-07-27 201701" src="https://github.com/user-attachments/assets/43fef579-5369-42fc-9df4-f158271111bc" />
-<img width="1919" height="1079" alt="Screenshot 2025-07-27 201710" src="https://github.com/user-attachments/assets/38fc777c-14a9-461e-b715-36d67a814cc3" />
-<img width="1919" height="1079" alt="Screenshot 2025-07-27 201718" src="https://github.com/user-attachments/assets/730cf80a-16ec-431f-a074-059cfaa8bfee" />
-<img width="1919" height="1079" alt="Screenshot 2025-07-27 201727" src="https://github.com/user-attachments/assets/6222d004-3532-4ca3-bd24-ac0fa9195410" />
-<img width="1919" height="1079" alt="Screenshot 2025-07-27 201742" src="https://github.com/user-attachments/assets/2de08871-4d47-4a20-9633-57f731df3b9b" />
-
-
+<img width="1907" height="1079" alt="Screenshot 2025-07-27 210859" src="https://github.com/user-attachments/assets/b0338153-e4e0-4723-8dc8-53904f24ed81" />
+<img width="1910" height="1079" alt="Screenshot 2025-07-27 210917" src="https://github.com/user-attachments/assets/7cdc57af-08e4-49d4-8269-00b622b3b881" />
+<img width="1919" height="1079" alt="Screenshot 2025-07-27 210924" src="https://github.com/user-attachments/assets/c37ef314-2a8b-4579-95a9-3703c802cf3f" />
+<img width="1919" height="1079" alt="Screenshot 2025-07-27 210931" src="https://github.com/user-attachments/assets/cb142976-2170-49c5-8e07-97ec196bc182" />
+<img width="1919" height="1079" alt="Screenshot 2025-07-27 210936" src="https://github.com/user-attachments/assets/4e6fba83-4667-415b-b411-6a99c05ade37" />
+<img width="1919" height="1079" alt="Screenshot 2025-07-27 211003" src="https://github.com/user-attachments/assets/56e50648-c977-4778-8450-c045a31f845f" />
+<img width="1910" height="1040" alt="Screenshot 2025-07-27 205551" src="https://github.com/user-attachments/assets/186c62ed-d1d8-4499-b523-221203aa9234" />
