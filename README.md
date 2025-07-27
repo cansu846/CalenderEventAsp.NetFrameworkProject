@@ -76,7 +76,7 @@ Bu proje, kullanıcıların takvim üzerine etkinlik ekleyebildiği, sürükle-b
 
 ## 📌 Ekran Görüntüsü
 
-<img width="1919" height="1079" alt="Screenshot 2025-07-27 201636" src="https://github.com/user-attachments/assets/7743b336-9212-4c5e-bf4d-ab6d401a420c" />
+<img width="1919" height="1079" alt="Screenshot 2025-07-27 204559" src="https://github.com/user-attachments/assets/d0edfcc3-949f-45a8-bb6e-270e346c4a3b" />
 <img width="1919" height="1079" alt="Screenshot 2025-07-27 201701" src="https://github.com/user-attachments/assets/43fef579-5369-42fc-9df4-f158271111bc" />
 <img width="1919" height="1079" alt="Screenshot 2025-07-27 201710" src="https://github.com/user-attachments/assets/38fc777c-14a9-461e-b715-36d67a814cc3" />
 <img width="1919" height="1079" alt="Screenshot 2025-07-27 201718" src="https://github.com/user-attachments/assets/730cf80a-16ec-431f-a074-059cfaa8bfee" />
