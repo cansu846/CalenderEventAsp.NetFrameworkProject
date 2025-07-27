@@ -81,5 +81,6 @@ C:\Users\Cansu\source\repos\CalenderEventAsp.NetFrameworkProject\CalenderEventAs
 C:\Users\Cansu\source\repos\CalenderEventAsp.NetFrameworkProject\CalenderEventAsp.NetFrameworkProject\obj\Debug\Calender.43EE750F.Up2Date
 C:\Users\Cansu\source\repos\CalenderEventAsp.NetFrameworkProject\CalenderEventAsp.NetFrameworkProject\obj\Debug\CalenderEventAsp.NetFrameworkProject.dll
 C:\Users\Cansu\source\repos\CalenderEventAsp.NetFrameworkProject\CalenderEventAsp.NetFrameworkProject\obj\Debug\CalenderEventAsp.NetFrameworkProject.pdb
-C:\Users\Cansu\source\repos\CalenderEventAsp.NetFrameworkProject\CalenderEventAsp.NetFrameworkProject\obj\Debug\CalenderEventAsp.NetFrameworkProject.Migrations.migfirst.resources
+C:\Users\Cansu\source\repos\CalenderEventAsp.NetFrameworkProject\CalenderEventAsp.NetFrameworkProject\obj\Debug\CalenderEventAsp.NetFrameworkProject.Migrations.mig1.resources
 C:\Users\Cansu\source\repos\CalenderEventAsp.NetFrameworkProject\CalenderEventAsp.NetFrameworkProject\obj\Debug\CalenderEventAsp.NetFrameworkProject.csproj.GenerateResource.cache
+C:\Users\Cansu\source\repos\CalenderEventAsp.NetFrameworkProject\CalenderEventAsp.NetFrameworkProject\obj\Debug\CalenderEventAsp.NetFrameworkProject.Migrations.updateevent.resources

@@ -1,0 +1,18 @@
+﻿
+@model List<CalenderEventAsp.NetFrameworkProject.Entities.Category>
+<div class="btn-group" style="width: 100%; margin-bottom: 10px;">
+    <ol class="fc-color-picker" id="color-chooser">
+        @foreach (var item in Model)
+        {
+            <li class="color-item">
+                <a class="@item.Color" href="#" data-color="@item.Color" title="@item.CategoryName">
+                    <span class="category-name" style="font-size: 18px;">@item.CategoryName</span>
+                    <i class="fas fa-square fa-sm"></i>
+                </a>
+                &nbsp;
+            </li>
+        }
+    </ol>
+
+
+</div>

@@ -1,0 +1,63 @@
+﻿
+@model List<CalenderEventAsp.NetFrameworkProject.Entities.Event>
+@{ 
+    Layout = "/Views/UILayout/Index.cshtml";
+
+}
+
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css" rel="stylesheet" />
+
+<div class="content-wrapper">
+    <!-- Content Header (Page header) -->
+    <section class="content-header">
+        <div class="container-fluid">
+            <h3 class="mb-4">Etkinlik Listesi</h3>
+
+            <table class="table table-bordered table-hover table-striped shadow-sm">
+                <thead class="thead-dark">
+                    <tr>
+                        <th>#</th>
+                        <th>Etkinlik Adı</th>
+                        <th>Başlangıç</th>
+                        <th>Bitiş</th>
+                        <th>Tüm Gün Mü?</th>
+                        <th>Renk</th>
+                        <th>İşlemler</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @if (Model != null && Model.Any())
+                    {
+                        int count = 1;
+                        foreach (var item in Model)
+                        {
+                            <tr>
+                                <td>@count</td>
+                                <td>@item.Title</td>
+                                <td>@item.Start.ToString("g")</td>
+                                <td>@(item.End.HasValue ? item.End.Value.ToString("g") : "Bitiş tarihi bulunmuyor")</td>
+                                <td>@(item.AllDay ? "Evet" : "Hayır")</td>
+                                <td>
+                                    <span style="display:inline-block;width:20px;height:20px;background-color:@item.BackgroundColor;border:1px solid #333;"></span>
+                                </td>
+                                <td>
+                                    <a href="@Url.Action("EditEvent", "AdminEvent", new { id = item.EventId })" class="btn btn-sm btn-warning">Güncelle</a>
+                                    <a href="@Url.Action("DeleteEvent", "AdminEvent", new { id = item.EventId })" class="btn btn-sm btn-danger" onclick="return confirm('Silmek istediğinize emin misiniz?')">Sil</a>
+                                </td>
+                            </tr>
+                            count++;
+                        }
+                    }
+                    else
+                    {
+                        <tr>
+                            <td colspan="7" class="text-center">Kayıtlı etkinlik bulunamadı.</td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+            <a href="@Url.Action("CreateEvent", "AdminEvent")" class="btn btn-sm btn-primary">Etkinlik Ekle</a>
+
+        </div>
+    </section>
+        </div>

@@ -8,10 +8,12 @@ namespace CalenderEventAsp.NetFrameworkProject.Entities
     public class Event
     {
         public int EventId { get; set; }
-        public string EventTitle { get; set; }
-        public DateTime StartDate { get; set; }
-        public DateTime EndDate { get; set; }
+        public string Title { get; set; }
+        public DateTime Start { get; set; }
+        public DateTime? End { get; set; }
+        public bool AllDay { get; set; }
+        public string BackgroundColor { get; set; }
+        public string BorderColor { get; set; }
         public int CategoryId { get; set; }
-        public virtual Category Category { get; set; }
     }
 }

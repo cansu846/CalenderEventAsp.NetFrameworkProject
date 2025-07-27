@@ -1,0 +1,37 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = null;
+}
+<!DOCTYPE html>
+<html lang="en">
+
+@Html.Partial("_HeadPartial")
+
+<body class="hold-transition sidebar-mini">
+    @Html.Partial("_NavbarPartial")
+
+    <div class="wrapper">
+        @Html.Action("Sidebar","UILayout")
+
+
+        @RenderBody()
+
+        @Html.Partial("_FooterPartial")
+
+
+
+        <!-- Control Sidebar -->
+        <aside class="control-sidebar control-sidebar-dark">
+            <!-- Control sidebar content goes here -->
+        </aside>
+        <!-- /.control-sidebar -->
+    </div>
+
+    @Html.Partial("_ScriptPartial")
+    @RenderSection("Scripts", required: false)
+
+</body>
+</html>
+
+
