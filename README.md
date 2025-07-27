@@ -31,7 +31,7 @@ Bu proje, kullanıcıların takvim üzerine etkinlik ekleyebildiği, sürükle-b
 
 ## 🧩 Kullanılan Teknolojiler
 
-- ASP.NET MVC 5
+- ASP.NET MVC 4.7
 - Entity Framework
 - jQuery & AJAX
 - FullCalendar.js
